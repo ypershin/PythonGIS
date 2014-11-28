@@ -1,5 +1,3 @@
-__author__ = 'ypershin'
-
 import turtle as t
 
 NAME = 0
